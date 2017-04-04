@@ -70,7 +70,7 @@ spauth
                 }
             });
             var web = new pnp.Web(webUrl);
-            console.log("Uploading file"+ fileName + "...");
+            console.log("Uploading file "+ fileName + "...");
             web.getFolderByServerRelativeUrl(path).files.add(fileName, appFile, true).then(data => {
                 console.log("File uploaded correctly!")
             });
