@@ -2,7 +2,7 @@
 Upload files to a sharepoint folder using the terminal
 
 
-## Install
+## Installation
 ```
 npm install -g saissaken/sp-upload
 ```
