@@ -2,12 +2,12 @@
 Upload files to a sharepoint folder using the terminal
 
 
-### Install
+## Install
 ```
 npm install -g saissaken/sp-upload
 ```
 
-### Usage
+## Usage
 ```
 sp-upload -u john@mycorp.com 
           -p 123456 
@@ -15,6 +15,13 @@ sp-upload -u john@mycorp.com
           -d path/to/your/folder 
           -f example.js
 ```
+
+## Result
+The local file `example.js` will be uploaded to `https://mycorp.sharepoint.com/sites/yoursite/path/to/your/folder/example.js`
+
+
+It must be a valid path.
+
 
 ### WARNING
 You are writing your credentials in the terminal, and they probably will be stored in some logs as plain text.
