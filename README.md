@@ -1,4 +1,4 @@
-# sp-upload  [![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/Saissaken/sp-upload)
+# sp-upload  [![GitHub issues](https://img.shields.io/github/issues/Saissaken/sp-upload.svg)](https://github.com/Saissaken/sp-upload/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Saissaken/sp-upload/pulls) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Saissaken/sp-upload/master/LICENSE)
 Upload files to a sharepoint folder using the terminal
 
 
