@@ -1,6 +1,5 @@
-# sp-upload  [![GitHub issues](https://img.shields.io/github/issues/Saissaken/sp-upload.svg)](https://github.com/Saissaken/sp-upload/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Saissaken/sp-upload/pulls)
+# sp-upload  [![GitHub issues](https://img.shields.io/github/issues/Saissaken/sp-upload.svg)](https://github.com/Saissaken/sp-upload/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Saissaken/sp-upload/pulls) [![Dependencies](https://david-dm.org/saissaken/sp-upload.svg)](https://github.com/Saissaken/sp-upload/blob/master/package.json)
 Upload files to a sharepoint folder using the terminal
-
 
 ## Installation
 ```
