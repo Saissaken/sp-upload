@@ -1,11 +1,6 @@
 #!/usr/bin/env node
 
 
-// This was coded in a hurry so STFU and GTFO, thanks <3
-// Also there is no error handling
-//  ¯\_(ツ)_/¯
-
-
 var program = require('commander');
 
 program
